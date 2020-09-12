@@ -1,4 +1,4 @@
-# [Gaston Fermandois](https://gastonfermandois.netlify.com/)
+# [Gaston Fermandois Lab](https://gastonfermandoislab.netlify.app/)
 
 ## Biography
 
