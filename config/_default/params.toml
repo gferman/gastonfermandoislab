@@ -93,7 +93,7 @@ phone = "+56 (2) 2303-7350"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Av. Vicuña Mackenna 3939", city = "Santiago", region = "RM", postcode = "8940897", country = "Chile", country_code = "CL"}
+address = {street = "Av. Vicuña Mackenna 3939", city = "Santiago", region = "RM", postcode = "8940572", country = "Chile", country_code = "CL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
