@@ -49,15 +49,21 @@ subtitle = ""
 
 ## Universidad Tecnica Federico Santa Maria
 ### Instructor
+#### Undergrad-level courses
 * CIV131 Estática de Estructuras (_Statics of Structures_)
 * CIV233 Fundamentos de Analisis Estructural (_Fundamentals of Structural Analysis_)
 * CIV234 Analisis Estructural (_Structural Analysis_)
 * CIV235 Dinamica Estructural (_Structural Dynamics_)
 * CIV336 Diseño en Acero (_Steel Design_)
+
+#### Graduate-level courses
 * IPO426 Dinamica Estructural Avanzada (_Advanced Structural Dynamics_)
 
 ## University of Illinois at Urbana-Champaign
+### Invited Lecturer
+* CEE598SD Structural Damping, Spring 2020. Instructor: Prof. B.F. Spencer, Jr.
+
 ### Teaching Assistant
-* CEE462 Steel Structures II, Spring 2015, Instructor: Prof. Larry Fahnestock
+* CEE462 Steel Structures II, Spring 2015. Instructor: Prof. Larry Fahnestock
 
 

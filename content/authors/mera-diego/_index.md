@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Real-time hybrid simulation
+- Experimental design
+- Communication protocols
 
 # education:
 #   courses:

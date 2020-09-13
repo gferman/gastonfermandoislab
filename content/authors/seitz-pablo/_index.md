@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Composite (steel-concrete) construction
+- Performance-based design
+- Direct stability analysis
 
 # education:
 #   courses:

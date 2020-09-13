@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Steel plate shear walls
+- Shell buckling
+- Transverse stiffners
 
 # education:
 #   courses:
