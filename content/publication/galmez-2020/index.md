@@ -8,11 +8,11 @@ authors:
 - Cristóbal Gálmez
 - Gastón Fermandois
 tags:
-- '"delay"'
-- '"energy methods"'
-- '"negative damping"'
-- '"real-time hybrid simulation"'
-- '"stability analysis"'
+- 'delay'
+- 'energy methods'
+- 'negative damping'
+- 'real-time hybrid simulation'
+- 'stability analysis'
 categories: []
 date: '2020-08-01'
 lastmod: 2020-09-13T17:13:03-03:00
