@@ -35,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-13T20:13:02.644713Z'
+publishDate: '2021-03-02T11:05:51.764493Z'
 publication_types:
-- 2
+- '2'
 abstract: Real-time hybrid simulation (RTHS) is a cost and space efficient alternative
   to shake table testing for seismic assessment of structural systems. In this method,
   complete structural systems are partitioned into numerical and physical components
