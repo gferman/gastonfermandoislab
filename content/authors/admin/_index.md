@@ -67,7 +67,7 @@ social:
   link: https://publons.com/researcher/3194089/gaston-fermandois/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gferman
+  link: https://github.com/FermandoisLab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
