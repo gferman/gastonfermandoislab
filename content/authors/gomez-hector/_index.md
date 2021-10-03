@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Maria Quiroz"
+title: "Hector Gomez"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "quiroz-maria"
+- "gomez-hector"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MS student
+role: BS student
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Real-time hybrid simulation
-- Experimental design
-- Semi-active control
-- System identification
+- Earthquake engineering
+- Steel structures
+- Passive energy dissipation
 
 # education:
 #   courses:
@@ -65,5 +64,5 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Undergrad Students
 ---

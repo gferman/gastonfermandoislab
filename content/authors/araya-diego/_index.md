@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Maria Quiroz"
+title: "Diego Araya"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "quiroz-maria"
+- "araya-diego"
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,9 +23,9 @@ bio:
 # List each interest with a dash
 interests:
 - Real-time hybrid simulation
-- Experimental design
-- Semi-active control
-- System identification
+- Force-based simulation
+- Structural control
+- Earthquake engineering
 
 # education:
 #   courses:
@@ -59,8 +59,8 @@ interests:
 # #   icon_pack: ai
 # #   link: files/cv.pdf
 
-# # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Maria Quiroz"
+title: "Paul Gac"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "quiroz-maria"
+- "gac-paul"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MS student
+role: BS student
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Real-time hybrid simulation
-- Experimental design
-- Semi-active control
+- Earthquake engineering
+- Structural health monitoring
 - System identification
 
 # education:
@@ -59,11 +58,11 @@ interests:
 # #   icon_pack: ai
 # #   link: files/cv.pdf
 
-# # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Undergrad Students
 ---

@@ -51,6 +51,7 @@ subtitle = ""
 ### Instructor
 #### Undergrad-level courses
 * CIV131 Estática de Estructuras (_Statics of Structures_)
+* CIV202 Mecánica Racional (_Rational "Classical" Mechanics_)
 * CIV233 Fundamentos de Analisis Estructural (_Fundamentals of Structural Analysis_)
 * CIV234 Analisis Estructural (_Structural Analysis_)
 * CIV235 Dinamica Estructural (_Structural Dynamics_)
