@@ -81,7 +81,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Welcome! I am an Assistant Professor in the [Department of Civil Engineering](http://obrasciviles.usm.cl) at [Universidad Tecnica Federico Santa Maria (USM)](https://www.usm.cl) at Santiago de Chile since 2011. I hold a B.S. and M.S. in Civil Engineering from USM at Valparaiso, and a Ph.D. in Structural Engineering from University of Illinois at Urbana-Champaign, where I worked under the supervision of [Prof. Billie F. Spencer, Jr](https://cee.illinois.edu/directory/profile/bfs). My research interests are structural control, experimental testing, real-time hybrid simulation, random vibrations, earthquake engineering, steel design, and structural optimization, among others.

@@ -22,7 +22,7 @@ Finally, two maRTHS experiments will be presented using centralized and decentra
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-09-14
 # date_end: 2021-03-02T08:08:15-03:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-03-02T08:08:15-03:00

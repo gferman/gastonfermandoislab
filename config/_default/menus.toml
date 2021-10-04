@@ -26,18 +26,24 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Talks"
+  url = "#talks"
   weight = 40
 
 [[main]]
-  name = "People"
-  url = "#people"
-  weight = 60
+  name = "Publications"
+  url = "#publications"
+  weight = 50
+
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 60
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 80
 
 [[main]]
